@@ -45,6 +45,18 @@ export const dailyRoutine = [
       "Lya eky’akulya kya makya ekirimu ebibala, obuwunga obulungi, n’emmere entaliimu mafuta mungi",
   },
   {
+    id: "r16",
+    time: "7:30 AM",
+    icon: "medical",
+    color: "#F44336",
+    title: "Check Blood Pressure",
+    lugandaTitle: "Laba Omusayi gwa Mmotoka",
+    description:
+      "Measure your blood pressure using a monitor. Record the reading to track your health.",
+    lugandaDescription:
+      "Laba omusayi gwa mmotoka nga okozesa ekyuma eky’alaba omusayi. Zuula ebyawandiikibwa okwongera okuwandiika ku buzibu bwo.",
+  },
+  {
     id: "r5",
     time: "8:00 AM",
     icon: "walk",
