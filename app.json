@@ -45,6 +45,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "f5d9133f-630e-468a-ae2b-0bf16d4750fd"
+      }
+    },
+    "owner": "yasyn"
   }
 }
