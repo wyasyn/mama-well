@@ -5,11 +5,11 @@ export const dailyRoutine = [
     icon: "sunny",
     color: "#FF9800",
     title: "Morning Wake Up",
-    lugandaTitle: "Okugolokoka ku Makya",
+    lugandaTitle: "Okuzuukuka mu Makya",
     description:
       "Wake up gently, stretch in bed for 2 minutes before getting up",
     lugandaDescription:
-      "Golokoka mpola, kwebagaza ku kitanda okumalira ddakiika 2 ng'tonnagolokoka",
+      "Zuukuka mpola, wefugule ku kitanda okumala eddakiika 2 nga tonagolokoka",
   },
   {
     id: "r2",
@@ -20,7 +20,7 @@ export const dailyRoutine = [
     lugandaTitle: "Nnywa Amazzi",
     description: "Drink a full glass of water to start hydrating your body",
     lugandaDescription:
-      "Nnywa ebikompe by'amazzi okujanjaaza omubiri gwo amazzi",
+      "Nnywa ekikompe ky’amazzi ekijjuvu okunyweza omubiri gwo amazzi",
   },
   {
     id: "r3",
@@ -28,9 +28,9 @@ export const dailyRoutine = [
     icon: "medical",
     color: "#4CAF50",
     title: "Take Morning Medication",
-    lugandaTitle: "Mira Eddagala lya ku Makya",
+    lugandaTitle: "Funa Eddagala lya Makya",
     description: "Take prescribed blood pressure medication with water",
-    lugandaDescription: "Mira eddagala ly'omusayi eryalagirwa n'amazzi",
+    lugandaDescription: "Mira eddagala ly’omusawo ery’omusayi n’amazzi",
   },
   {
     id: "r4",
@@ -38,11 +38,11 @@ export const dailyRoutine = [
     icon: "restaurant",
     color: "#795548",
     title: "Healthy Breakfast",
-    lugandaTitle: "Emmere ya ku Makya Ennungi",
+    lugandaTitle: "Ky'akulya kya Makya Ekinywevu",
     description:
       "Eat a balanced breakfast with fruits, whole grains, and low-fat proteins",
     lugandaDescription:
-      "Lya emmere ya ku makya ebalagavu n'ebibala, emmere y'obuwunga obulungi, ne buyiba obutabba musavu",
+      "Lya eky’akulya kya makya ekirimu ebibala, obuwunga obulungi, n’emmere entaliimu mafuta mungi",
   },
   {
     id: "r5",
@@ -50,10 +50,10 @@ export const dailyRoutine = [
     icon: "walk",
     color: "#9C27B0",
     title: "Morning Walk",
-    lugandaTitle: "Okutambula ku Makya",
+    lugandaTitle: "Kutambula mu Makya",
     description: "Take a gentle 20-30 minute walk in fresh air",
     lugandaDescription:
-      "Tambula mpola okumalira ddakiika 20-30 mu mpewo ennungi",
+      "Tambula mpola okumala eddakiika 20-30 mu mpewo ennungi",
   },
   {
     id: "r6",
@@ -61,11 +61,11 @@ export const dailyRoutine = [
     icon: "water",
     color: "#2196F3",
     title: "Mid-Morning Hydration",
-    lugandaTitle: "Amazzi g'omu Makya",
+    lugandaTitle: "Nnywa Amazzi ku Ssaawa ya Makya",
     description:
       "Drink another glass of water and have a healthy snack if needed",
     lugandaDescription:
-      "Nnywa ebikompe by'amazzi endala era olye ekintu ekitono nga kyetaagisa",
+      "Nnywa ekikompe ky’amazzi endala era olye ekintu ekitono ekiramu eby’okulya eby’obulamu nga kyetagisa",
   },
   {
     id: "r7",
@@ -73,11 +73,11 @@ export const dailyRoutine = [
     icon: "restaurant",
     color: "#FF5722",
     title: "Nutritious Lunch",
-    lugandaTitle: "Emmere ya Ttuntu Ennungi",
+    lugandaTitle: "Ky’akulya kya Ttuntu Ekinywevu",
     description:
       "Eat a balanced lunch with vegetables, lean protein, and whole grains",
     lugandaDescription:
-      "Lya emmere ya ttuntu ebalagavu n'ebijanjaalo, buyiba obulungi, n'emmere y'obuwunga obulungi",
+      "Lya eky’akulya kya ttuntu ekirimu enva, emmere ey’amaanyi etaliimu mafuta mungi, n’obuwunga obulungi",
   },
   {
     id: "r8",
@@ -85,10 +85,10 @@ export const dailyRoutine = [
     icon: "bed",
     color: "#607D8B",
     title: "Rest Period",
-    lugandaTitle: "Ekiseera kya Kuwummula",
+    lugandaTitle: "Ekiseera ky’Okusula Obutayitiriza",
     description: "Take a 15-20 minute rest or light nap if tired",
     lugandaDescription:
-      "Wuumula okumalira ddakiika 15-20 oba sula otulo otuto bw'oba koze",
+      "Wummula okumala eddakiika 15-20 oba sula akatulo akatono nga wewulira nga otonye",
   },
   {
     id: "r9",
@@ -96,9 +96,9 @@ export const dailyRoutine = [
     icon: "water",
     color: "#2196F3",
     title: "Afternoon Hydration",
-    lugandaTitle: "Amazzi ga mu Ttuntu",
+    lugandaTitle: "Nnywa Amazzi mu Ttuntu",
     description: "Drink water and check in with how you're feeling",
-    lugandaDescription: "Nnywa amazzi era kebera engeri gy'owulira",
+    lugandaDescription: "Nnywa amazzi era webuuze engeri gy’owulira",
   },
   {
     id: "r10",
@@ -106,10 +106,10 @@ export const dailyRoutine = [
     icon: "fitness",
     color: "#E91E63",
     title: "Gentle Exercise",
-    lugandaTitle: "Okwelolera Okumpola",
+    lugandaTitle: "Okwetooloola Okumpola",
     description: "Do light stretching or breathing exercises for 10-15 minutes",
     lugandaDescription:
-      "Kola okwebagaza okumpola oba okwelolera okusesa okumalira ddakiika 10-15",
+      "Kola okwefugula oba okugeya eby’okussa okumala eddakiika 10-15",
   },
   {
     id: "r11",
@@ -117,10 +117,10 @@ export const dailyRoutine = [
     icon: "restaurant",
     color: "#4CAF50",
     title: "Light Dinner",
-    lugandaTitle: "Emmere ya kiro Entono",
+    lugandaTitle: "Ky’akulya kya Akawungeezi Ekisajja",
     description: "Eat a light, early dinner with plenty of vegetables",
     lugandaDescription:
-      "Lya emmere ya kiro entono, ey'amangu n'ebijanjaalo bingi",
+      "Lya eky’akulya kya akawungeezi ekitono, ekirimu enva enyingi",
   },
   {
     id: "r12",
@@ -128,9 +128,10 @@ export const dailyRoutine = [
     icon: "medical",
     color: "#4CAF50",
     title: "Evening Medication",
-    lugandaTitle: "Eddagala lya Kiro",
+    lugandaTitle: "Eddagala lya Akawungeezi",
     description: "Take evening medication if prescribed by your doctor",
-    lugandaDescription: "Mira eddagala lya kiro singa lyalagirwa musawo",
+    lugandaDescription:
+      "Mira eddagala lya akawungeezi singa lyalagirwa omusawo",
   },
   {
     id: "r13",
@@ -138,11 +139,11 @@ export const dailyRoutine = [
     icon: "heart",
     color: "#E91E63",
     title: "Relaxation Time",
-    lugandaTitle: "Ekiseera kya Kukkakkanya Omutwe",
+    lugandaTitle: "Ekiseera ky’Okusonyiwa Omwoyo",
     description:
       "Spend time with family, listen to music, or do quiet activities",
     lugandaDescription:
-      "Mala obudde n'ab'amaka, wuliriza ennyimba, oba kola ebikolwa ebirame",
+      "Mala obudde n’ab’amaka, wuliriza ennyimba, oba kola ebintu ebitono eby’okwewummuza",
   },
   {
     id: "r14",
@@ -150,9 +151,9 @@ export const dailyRoutine = [
     icon: "water",
     color: "#2196F3",
     title: "Final Hydration",
-    lugandaTitle: "Amazzi ga Kumaliriza",
+    lugandaTitle: "Okunywa Amazzi ku Makya",
     description: "Drink your last glass of water for the day",
-    lugandaDescription: "Nnywa ebikompe by'amazzi ebya kumaliriza eby'olunaku",
+    lugandaDescription: "Nnywa ekikompe ky’amazzi eky’enkomerero ky’olunaku",
   },
   {
     id: "r15",
@@ -160,9 +161,9 @@ export const dailyRoutine = [
     icon: "bed",
     color: "#673AB7",
     title: "Prepare for Sleep",
-    lugandaTitle: "Weetegekere Otulo",
+    lugandaTitle: "Weetegekere Okwebaka",
     description: "Wind down, avoid screens, and prepare for restful sleep",
     lugandaDescription:
-      "Kkakkanya omutwe, weewale endagiriro, era weetegekere otulo olulungi",
+      "Kkakkanya omutwe, weewale okulaba ku bipimo (screens), era weetegekere otulo olulungi",
   },
 ];

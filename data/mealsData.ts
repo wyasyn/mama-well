@@ -3,32 +3,32 @@ export const ugandanMeals = {
     {
       id: "b1",
       name: "Millet Porridge with Bananas",
-      lugandaName: "Obuwunga bw'Obulo n'Ebitooke",
+      lugandaName: "Obushera bw'Obulo n'Amenvu",
       description:
-        "Nutritious millet porridge with sliced bananas, low in sodium and rich in potassium",
+        "Nutritious millet porridge with sliced bananas, low in sodium and rich in potassium.",
       lugandaDescription:
-        "Obuwunga obulungi obw'obulo nga buliko ebitooke, tebulina munyu mungi era bulina potassium",
+        "Obushera obw'obulo obulimu amenvu, tebulimu munyu mungi era bulimu potassium enyingi.",
       benefits:
-        "High in fiber, potassium helps lower blood pressure, whole grains support heart health",
+        "High in fiber, potassium helps lower blood pressure, whole grains support heart health.",
       lugandaBenefits:
-        "Bulina fiber nnyingi, potassium eyamba okukendeeza omusayi, emmere empya eziyamba omutima",
+        "Bulimu fiber nnyingi, potassium eyamba okuggyamu omusayi mungi, obulo buyamba ku mutima.",
       image: "b1",
       ingredients: ["Millet flour", "Bananas", "Low-fat milk", "Cinnamon"],
       preparation:
-        "Cook millet flour with water, add milk and cinnamon, serve with sliced bananas",
+        "Cook millet flour with water, add milk and cinnamon, serve with sliced bananas.",
     },
     {
       id: "b2",
       name: "Sweet Potato with Groundnut Sauce",
-      lugandaName: "Lumonde n'Ebinyeebwa",
+      lugandaName: "Lumonde n’Ebinyeebwa",
       description:
-        "Boiled sweet potatoes with groundnut sauce, rich in beta-carotene and healthy fats",
+        "Boiled sweet potatoes with groundnut sauce, rich in beta-carotene and healthy fats.",
       lugandaDescription:
-        "Lumonde ezifumbye n'ebinyeebwa, zilina beta-carotene n'amasavu amalungi",
+        "Lumonde ez'okebwa n'ekisosi ky'ebinyeebwa, zirimu beta-carotene n’amasavu amalungi.",
       benefits:
-        "Beta-carotene supports eye health, healthy fats, natural sweetness reduces sugar cravings",
+        "Beta-carotene supports eye health, healthy fats, natural sweetness reduces sugar cravings.",
       lugandaBenefits:
-        "Beta-carotene eyamba amaaso, amasavu amalungi, obuwoomi butongole bukendeeza okwegomba sukali",
+        "Beta-carotene eyamba amaaso, amasavu amalungi, obuwoomi obwa butonde bukendeeza okwegomba sukali.",
       image: "b2",
       ingredients: [
         "Sweet potatoes",
@@ -38,23 +38,24 @@ export const ugandanMeals = {
         "Garlic",
       ],
       preparation:
-        "Boil sweet potatoes, make groundnut sauce with minimal salt",
+        "Boil sweet potatoes, make groundnut sauce with minimal salt.",
     },
     {
       id: "b3",
       name: "Cassava with Beans",
-      lugandaName: "Muwogo n'Ebijanjaalo",
+      lugandaName: "Muwogo n’Ebijanjaalo",
       description:
-        "Steamed cassava with seasoned beans, high in protein and fiber",
+        "Steamed cassava with seasoned beans, high in protein and fiber.",
       lugandaDescription:
-        "Muwogo gw'eyokeddwa n'ebijanjaalo, gulina puloteyini n'fiber nnyingi",
+        "Muwogo ogw’okeddwa n’ebijanjaalo ebirungo, gulimu puloteyini n’fiber nnyingi.",
       benefits:
-        "High protein, fiber aids digestion, complex carbs provide steady energy",
+        "High protein, fiber aids digestion, complex carbs provide steady energy.",
       lugandaBenefits:
-        "Puloteyini nnyingi, fiber eyamba enkira, carbs ezitali za mangu ziwa amaanyi agasigala",
+        "Puloteyini nnyingi, fiber eyamba okunyiga emmere, obugagga bwa carbohydrates buwa amaanyi agaguminkiriza.",
       image: "b3",
       ingredients: ["Cassava", "Beans", "Onions", "Garlic", "Tomatoes"],
-      preparation: "Steam cassava, cook beans with minimal salt and vegetables",
+      preparation:
+        "Steam cassava, cook beans with minimal salt and vegetables.",
     },
   ],
 
@@ -62,15 +63,15 @@ export const ugandanMeals = {
     {
       id: "l1",
       name: "Steamed Fish with Vegetables",
-      lugandaName: "Ekyennyanja Ekyokeddwa n'Enva",
+      lugandaName: "Ekyennyanja Ekyo’kedde n’Enva",
       description:
-        "Fresh tilapia steamed with local vegetables, high in omega-3 fatty acids",
+        "Fresh tilapia steamed with local vegetables, high in omega-3 fatty acids.",
       lugandaDescription:
-        "Ekyennyanja ekya tilapia ekyokeddwa n'enva z'omu kitundu, kilina omega-3",
+        "Ekyennyanja kya tilapia ekyo’kedde n’enva ez’omunda, kirimu omega-3.",
       benefits:
-        "Omega-3 reduces inflammation, lean protein, vegetables provide potassium",
+        "Omega-3 reduces inflammation, lean protein, vegetables provide potassium.",
       lugandaBenefits:
-        "Omega-3 ekendeeza obuzimba, puloteyini etali ya masavu, enva zwa potassium",
+        "Omega-3 ekendeeza obuvimba, puloteyini etali ya masavu, enva ziwa potassium.",
       image: "l1",
       ingredients: [
         "Fresh tilapia",
@@ -80,20 +81,20 @@ export const ugandanMeals = {
         "Ginger",
       ],
       preparation:
-        "Steam fish with vegetables, season with herbs instead of salt",
+        "Steam fish with vegetables, season with herbs instead of salt.",
     },
     {
       id: "l2",
       name: "Chicken Stew with Posho",
-      lugandaName: "Enkoko n'Obuwunga",
+      lugandaName: "Enkoko mu Sosi n’Obuwunga",
       description:
-        "Lean chicken stew with maize flour posho, protein-rich and filling",
+        "Lean chicken stew with maize flour posho, protein-rich and filling.",
       lugandaDescription:
-        "Enkoko etali ya masavu n'obuwunga bw'obutta, erina puloteyini era ejjuza",
+        "Enkoko etali ya masavu mu sosi n’obuwunga bw’akawunga, erimu puloteyini era ejjuza.",
       benefits:
-        "Lean protein supports muscle health, whole grain posho provides energy",
+        "Lean protein supports muscle health, whole grain posho provides energy.",
       lugandaBenefits:
-        "Puloteyini eyamba emubiri, obuwunga obumpya buwa amaanyi",
+        "Puloteyini etali ya masavu eyamba amagumba, obuwunga obw’akawunga buwa amaanyi.",
       image: "l2",
       ingredients: [
         "Chicken breast",
@@ -103,21 +104,21 @@ export const ugandanMeals = {
         "Carrots",
       ],
       preparation:
-        "Cook chicken with minimal oil, serve with posho made from whole maize",
+        "Cook chicken with minimal oil, serve with posho made from whole maize.",
     },
     {
       id: "l3",
       name: "Matoke with Groundnut Sauce",
-      lugandaName: "Amatooke n'Ebinyeebwa",
+      lugandaName: "Amatooke n’Ebinyeebwa",
       description:
-        "Steamed green bananas with groundnut sauce, traditional and heart-healthy",
+        "Steamed green bananas with groundnut sauce, traditional and heart-healthy.",
       lugandaDescription:
-        "Amatooke ag'okeddwa n'ebinyeebwa, kya kiganda era kiyamba omutima",
+        "Amatooke ag’okeddwa n’ekisosi ky’ebinyeebwa, emmere ya Buganda ey’omutima.",
       benefits:
-        "Potassium from bananas, healthy fats from groundnuts, fiber for digestion",
+        "Potassium from bananas, healthy fats from groundnuts, fiber for digestion.",
       lugandaBenefits:
-        "Potassium okuva mu matooke, amasavu amalungi okuva mu binyeebwa, fiber ku nkira",
-      image: "s1",
+        "Potassium okuva mu matooke, amasavu amalungi okuva mu binyeebwa, fiber ku kunyiga emmere.",
+      image: "l3",
       ingredients: [
         "Green bananas",
         "Groundnuts",
@@ -125,7 +126,7 @@ export const ugandanMeals = {
         "Tomatoes",
         "Coriander",
       ],
-      preparation: "Steam matoke, make groundnut sauce with fresh vegetables",
+      preparation: "Steam matoke, make groundnut sauce with fresh vegetables.",
     },
   ],
 
@@ -133,14 +134,15 @@ export const ugandanMeals = {
     {
       id: "d1",
       name: "Vegetable Soup with Millet Bread",
-      lugandaName: "Supu y'Enva n'Omugaati gw'Obulo",
+      lugandaName: "Supu y’Enva n’Omugaati gw’Obulo",
       description:
-        "Mixed vegetable soup with millet bread, light and nutritious evening meal",
+        "Mixed vegetable soup with millet bread, light and nutritious evening meal.",
       lugandaDescription:
-        "Supu y'enva ez'enjawulo n'omugaati gw'obulo, kyekulya kya kiro ekyangu era ekirungi",
-      benefits: "Low calorie, high in vitamins, fiber aids overnight digestion",
+        "Supu y’enva ez’enjawulo n’omugaati ogw’obulo, eky’okulya ekyekiro ekirungi era ekyangu.",
+      benefits:
+        "Low calorie, high in vitamins, fiber aids overnight digestion.",
       lugandaBenefits:
-        "Kalori ntono, vitamins nnyingi, fiber eyamba enkira ekiro",
+        "Kalori ntono, vitamini nnyingi, fiber eyamba okunyiga emmere ekiro.",
       image: "d1",
       ingredients: [
         "Mixed vegetables",
@@ -149,21 +151,21 @@ export const ugandanMeals = {
         "Ginger",
         "Herbs",
       ],
-      preparation: "Make vegetable broth with minimal salt, bake millet bread",
+      preparation: "Make vegetable broth with minimal salt, bake millet bread.",
     },
     {
       id: "d2",
       name: "Lentils with Rice",
-      lugandaName: "Ebirayi n'Omuceere",
+      lugandaName: "Ebirayi n’Omuceere",
       description:
-        "Red lentils with brown rice, plant-based protein and complex carbs",
+        "Red lentils with brown rice, plant-based protein and complex carbs.",
       lugandaDescription:
-        "Ebirayi ebimyufu n'omuceere, puloteyini y'ebimera era carbs ezitali za mangu",
+        "Ebirayi ebimyufu n’omuceere omumyufu, puloteyini y’ebimera n’obugagga bwa carbohydrates.",
       benefits:
-        "Plant protein, fiber controls blood sugar, magnesium supports heart health",
+        "Plant protein, fiber controls blood sugar, magnesium supports heart health.",
       lugandaBenefits:
-        "Puloteyini y'ebimera, fiber efuga sukali mu musayi, magnesium eyamba omutima",
-      image: "l2",
+        "Puloteyini y’ebimera, fiber efuga sukali mu musaayi, magnesium eyamba omutima.",
+      image: "d2",
       ingredients: [
         "Red lentils",
         "Brown rice",
@@ -171,20 +173,20 @@ export const ugandanMeals = {
         "Garlic",
         "Turmeric",
       ],
-      preparation: "Cook lentils and rice separately, combine with spices",
+      preparation: "Cook lentils and rice separately, combine with spices.",
     },
     {
       id: "d3",
       name: "Grilled Chicken with Salad",
-      lugandaName: "Enkoko Eyookeddwa n'Salaadi",
+      lugandaName: "Enkoko Eyokeddwa n’Salaadi",
       description:
-        "Grilled chicken breast with fresh vegetable salad, light and healthy",
+        "Grilled chicken breast with fresh vegetable salad, light and healthy.",
       lugandaDescription:
-        "Enkoko eyookeddwa n'salaadi ya nva empya, kyekulya kyangu era kirungi",
+        "Enkoko eyokeddwa n’salaadi ya nva empya, eky’okulya ekyangu era ekirungi.",
       benefits:
-        "Lean protein, raw vegetables provide enzymes, low sodium preparation",
+        "Lean protein, raw vegetables provide enzymes, low sodium preparation.",
       lugandaBenefits:
-        "Puloteyini etali ya masavu, enva empya ziwa enzymes, entegeka etali ya munyu mungi",
+        "Puloteyini etali ya masavu, enva empya ziwa enzymes, entegeka etali ya munyu mungi.",
       image: "d3",
       ingredients: [
         "Chicken breast",
@@ -194,7 +196,7 @@ export const ugandanMeals = {
         "Avocado",
       ],
       preparation:
-        "Grill chicken with herbs, serve with fresh salad and lemon dressing",
+        "Grill chicken with herbs, serve with fresh salad and lemon dressing.",
     },
   ],
 
@@ -202,28 +204,28 @@ export const ugandanMeals = {
     {
       id: "s1",
       name: "Roasted Groundnuts",
-      lugandaName: "Ebinyeebwa Ebyokeere",
-      description: "Unsalted roasted groundnuts, healthy fats and protein",
+      lugandaName: "Ebinyeebwa Eby’okeddwa",
+      description: "Unsalted roasted groundnuts, healthy fats and protein.",
       lugandaDescription:
-        "Ebinyeebwa ebyokeere ebitali bya munyu, amasavu amalungi n'puloteyini",
+        "Ebinyeebwa eby’okeddwa ebitali bya munyu, birimu amasavu amalungi n’puloteyini.",
       benefits:
-        "Healthy fats, protein, magnesium supports blood pressure regulation",
+        "Healthy fats, protein, magnesium supports blood pressure regulation.",
       lugandaBenefits:
-        "Amasavu amalungi, puloteyini, magnesium eyamba okufuga omusayi",
+        "Amasavu amalungi, puloteyini, magnesium eyamba okufuga omusayi.",
       image: "s1",
       ingredients: ["Raw groundnuts"],
-      preparation: "Roast groundnuts without salt or oil",
+      preparation: "Roast groundnuts without salt or oil.",
     },
     {
       id: "s2",
       name: "Fresh Fruit Salad",
-      lugandaName: "Salaadi y'Ebibala Empya",
-      description: "Mixed seasonal fruits, natural sweetness and vitamins",
+      lugandaName: "Salaadi y’Ebibala Empya",
+      description: "Mixed seasonal fruits, natural sweetness and vitamins.",
       lugandaDescription:
-        "Ebibala eby'enjawulo eby'ekiseera, obuwoomi butongole era vitamins",
-      benefits: "Natural sugars, vitamins, antioxidants protect heart health",
+        "Ebibala eby’enjawulo eby’ekiseera, obuwoomi obwa butonde n’amavitamini.",
+      benefits: "Natural sugars, vitamins, antioxidants protect heart health.",
       lugandaBenefits:
-        "Sukali za butonde, vitamins, antioxidants ezikuuma omutima",
+        "Sukaali za butonde, vitamini, antioxidants ezikuuma omutima.",
       image: "s2",
       ingredients: [
         "Pineapple",
@@ -232,7 +234,7 @@ export const ugandanMeals = {
         "Bananas",
         "Passion fruit",
       ],
-      preparation: "Cut fresh fruits, mix gently, serve immediately",
+      preparation: "Cut fresh fruits, mix gently, serve immediately.",
     },
   ],
 };
